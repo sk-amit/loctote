@@ -1,0 +1,32 @@
+@media (max-width: 1399px){
+
+}
+@media (max-width: 1199px){
+
+}
+@media (max-width: 991px){
+
+}
+@media (max-width: 767px){
+	.left p a, .right ul li a {
+    font-size: 14px;
+	}
+	.mid-header h2 {
+    font-size: 14px;
+}
+.bg-section h3 {
+    font-size: 25px;
+}
+.top-header{
+	text-align: center;
+}
+.side ul{
+	justify-content: center !important;
+}
+.product-section, .sign{
+	text-align: center;
+}
+}
+@media (max-width: 575px){
+	
+}
